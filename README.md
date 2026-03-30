@@ -60,14 +60,6 @@ val imran = Developer(
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-trophies.vercel.app/?username=Imranali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
-
-</div>
----
 
 ### 📊 3D Contribution Graph
 
@@ -91,42 +83,6 @@ val imran = Developer(
 ![snake gif](https://github.com/Imranali31/Imranali31/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<details>
-<summary>🔧 Click here to set up the Snake Animation</summary>
-
-Create this file in your profile repo at `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Imranali31
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → Run workflow** manually once. The snake will appear! 🐍
-
-</details>
 
 ---
 
