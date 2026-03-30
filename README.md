@@ -78,16 +78,6 @@ val imran = Developer(
 </div>
 
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imranali31&theme=matrix&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📈 Activity Graph
 
 [![Imran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imranali31&theme=react-dark&hide_border=true&color=00ffff&line=00ffff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
