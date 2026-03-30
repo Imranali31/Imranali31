@@ -60,15 +60,13 @@ val imran = Developer(
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00ffff"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imranali31&layout=compact&langs_count=7&theme=tokyonight&border_color=00ffff"/>
+![Trophies](https://github-trophies.vercel.app/?username=Imranali31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
-
 ---
 
 ### 📊 3D Contribution Graph
