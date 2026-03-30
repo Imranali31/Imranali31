@@ -71,14 +71,13 @@ val imran = Developer(
 
 ---
 
-### 🔥 Contribution Streak
+### 📊 3D Contribution Graph
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Imranali31&theme=tokyonight&hide_border=false&border=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF)](https://git.io/streak-stats)
+![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
 </div>
-
 ---
 
 ### 🏆 GitHub Trophies
