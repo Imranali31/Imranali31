@@ -60,25 +60,6 @@ val imran = Developer(
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![BdjobsAndroid](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Imranali31&repo=BdjobsAndroid&theme=tokyonight&border_color=00ffff)](https://github.com/Imranali31/BdjobsAndroid)
-
-#### 🔒 JobSeeker Android — *Bdjobs App Team*
-> Enterprise-level job-seeking Android app for Bangladesh's largest job portal.
-
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-`🔐 Private Repository` · `Bdjobs-App-Team`
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
