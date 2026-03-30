@@ -78,7 +78,7 @@ val imran = Developer(
 ![3D Contrib](profile-3d-contrib/profile-night-view.svg)
 
 </div>
----
+
 
 ### 🏆 GitHub Trophies
 
