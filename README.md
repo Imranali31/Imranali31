@@ -65,7 +65,7 @@ val imran = Developer(
 
 <div align="center">
 
-![3D Contrib](profile-3d-contrib/profile-green-animate.svg)
+![3D Contrib](profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
