@@ -9,6 +9,21 @@
 </div>
 
 ---
+### 📈 GitHub Activity
+
+<div align="center">
+
+<!-- Contribution Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Imranali31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imranali31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+</div>
+---
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -43,16 +58,13 @@ val imran = Developer(
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -69,22 +81,6 @@ val imran = Developer(
 
 </div>
 
-
-### 📈 Activity Graph
-
-[![Imran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imranali31&theme=react-dark&hide_border=true&color=00ffff&line=00ffff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Imranali31/Imranali31/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ### 🌐 Connect With Me
 
