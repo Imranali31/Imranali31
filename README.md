@@ -13,14 +13,9 @@
 
 <div align="center">
 
-<!-- Contribution Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Imranali31&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imranali31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 ---
