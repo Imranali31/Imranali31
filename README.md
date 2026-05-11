@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Imran%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20App%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Flutter&descAlignY=55&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=⚡+Building+Apps+that+Matter;📱+Kotlin+%7C+Flutter+%7C+Swift+%7C+Node.js;🚀+Turning+Ideas+into+Mobile+Experiences;💻+Clean+Code+%7C+Smooth+UX+%7C+Real+Impact)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Imranali31&label=👁️+Profile+Views&color=00ffff&style=flat-square" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=⚡+Building+Apps+that+Matter;+Kotlin+%7C+Flutter+%7C+Swift+%7C+Node.js;+Turning+Ideas+into+Mobile+Experiences;+Clean+Code+%7C+Smooth+UX+%7C+Real+Impact)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +10,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 🧑‍💻 About Me
+### About Me
 
 ```kotlin
 val imran = Developer(
@@ -26,12 +24,12 @@ val imran = Developer(
 )
 ```
 
-- 📱 Passionate about building **beautiful, high-performance** mobile apps
-- 🤖 Love crafting **Android** experiences with **Kotlin**
-- 🦋 Building cross-platform with **Flutter & Dart**
-- 🍎 Exploring **iOS** development with **Swift**
-- 🌐 Backend services with **Node.js**
-- ⚡ Fun fact: I debug with `Log.d` more than I'd like to admit
+- Passionate about building **beautiful, high-performance** mobile apps
+- Love crafting **Android** experiences with **Kotlin**
+- Building cross-platform with **Flutter & Dart**
+- Exploring **iOS** development with **Swift**
+- Backend services with **Node.js**
+- Fun fact: I debug with `Log.d` more than I'd like to admit
 
 <br clear="right"/>
 ---
@@ -62,7 +60,7 @@ val imran = Developer(
 </div>
 ---
 
-### 📊 3D Contribution Graph
+### 📊 Contribution Graph
 
 <div align="center">
 
