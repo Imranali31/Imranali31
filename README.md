@@ -15,10 +15,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://stats.quine.sh/Imranali31/github?theme=dark" alt="GitHub Stats" />
 
 </div>
----
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
