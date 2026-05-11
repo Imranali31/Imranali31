@@ -61,9 +61,10 @@ val imran = Developer(
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://ghchart.rshah.org/00FFFF/Imranali31" alt="Imranali31's Contribution Chart" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranali31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
