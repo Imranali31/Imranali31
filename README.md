@@ -34,8 +34,14 @@ val imran = Developer(
 - ⚡ Fun fact: I debug with `Log.d` more than I'd like to admit
 
 <br clear="right"/>
-
 ---
+
+### 📈 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imranali31&theme=tokyonight" alt="Contribution Graph" width="100%" />
+</div>
 
 ### 🛠️ Tech Arsenal
 
@@ -54,20 +60,6 @@ val imran = Developer(
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
-
-### 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00FFFF/Imranali31" alt="Imranali31's Contribution Chart" width="100%" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ### 📊 3D Contribution Graph
