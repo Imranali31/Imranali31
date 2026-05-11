@@ -1,11 +1,6 @@
 <div align="center">
 
-# Md. Imran Ali
-### Mobile App Developer — Android · iOS · Flutter
-
-**Kotlin · Flutter · Swift · Node.js**
-
-Building high-performance mobile experiences from Dhaka, Bangladesh
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md.%20Imran%20Ali&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20App%20Developer%20%7C%20Android%20%7C%20iOS%20%7C%20Flutter&descAlignY=55&descSize=16)
 
 <img src="https://komarev.com/ghpvc/?username=Imranali31&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -13,7 +8,9 @@ Building high-performance mobile experiences from Dhaka, Bangladesh
 
 ---
 
-## About
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### About Me
 
 ```kotlin
 val imran = Developer(
@@ -27,60 +24,67 @@ val imran = Developer(
 )
 ```
 
-Mobile developer with a focus on clean architecture, smooth UX, and real-world impact. Passionate about Android with Kotlin, cross-platform apps with Flutter, and backend services with Node.js.
+- Passionate about building high-performance mobile apps with clean architecture
+- Crafting native Android experiences with **Kotlin**
+- Building cross-platform solutions with **Flutter & Dart**
+- Exploring iOS development with **Swift**
+- Backend services with **Node.js** and REST APIs
+- Fun fact: I debug with `Log.d` more than I'd like to admit
+
+<br clear="right"/>
 
 ---
 
-## Featured Projects
+### Featured Projects
 
-> *Add your real projects below — replace the placeholders with your actual apps.*
+> Replace these placeholders with your actual projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project One</h3>
-      <p>Short description of what this app does and who it's for. Keep it to 1–2 sentences.</p>
+      <h3>Project Name</h3>
+      <p>Brief description of what this app does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <a href="#">View Repo</a> · <a href="#">Play Store</a>
+      <a href="#">GitHub</a> · <a href="#">Play Store</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Project Two</h3>
-      <p>Short description of what this app does and who it's for. Keep it to 1–2 sentences.</p>
+      <h3>Project Name</h3>
+      <p>Brief description of what this app does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
-      <a href="#">View Repo</a> · <a href="#">Live Demo</a>
+      <a href="#">GitHub</a> · <a href="#">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Project Three</h3>
-      <p>Short description of what this app does and who it's for. Keep it to 1–2 sentences.</p>
+      <h3>Project Name</h3>
+      <p>Brief description of what this app does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=flat-square&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       </p>
-      <a href="#">View Repo</a> · <a href="#">App Store</a>
+      <a href="#">GitHub</a> · <a href="#">App Store</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Project Four</h3>
-      <p>Short description of what this app does and who it's for. Keep it to 1–2 sentences.</p>
+      <h3>Project Name</h3>
+      <p>Brief description of what this app does and the problem it solves.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
       </p>
-      <a href="#">View Repo</a>
+      <a href="#">GitHub</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 **Mobile**
 
@@ -105,18 +109,19 @@ Mobile developer with a focus on clean architecture, smooth UX, and real-world i
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Imranali31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Imranali31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranali31&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+
 </div>
 
 ---
 
-## Connect
+### Connect
 
 <div align="center">
 
@@ -125,3 +130,7 @@ Mobile developer with a focus on clean architecture, smooth UX, and real-world i
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imranali31)
 
 </div>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
